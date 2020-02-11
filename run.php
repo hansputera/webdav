@@ -1,3 +1,5 @@
+<?php
+
 system("clear");
 
 echo "[*] Masukan web: ";
@@ -16,5 +18,5 @@ return;
 }
 system("clear");
 system("python2 webdav.py $web $file");
-
+?>
 // CODED BY HANS PUTERA, MR.YOUKNOWME
